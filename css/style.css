@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -33,6 +34,8 @@
 
 
 
+=======
+>>>>>>> b7cdf867fb1bd0b7546f393cbb708278e0a21261
 .hero {
   height: 60vh;
   display: flex;
@@ -44,11 +47,15 @@
   color: white;
   padding: 20px;
   margin-bottom: 20px;
+<<<<<<< HEAD
   background: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url('../images/students-hero.jpg') center/cover no-repeat;
 }
 /* this last background overrides the previous background exists in .hero
 and it tones down the image with two gradients to the two edges to make 
 the fonts read better */
+=======
+}
+>>>>>>> b7cdf867fb1bd0b7546f393cbb708278e0a21261
 
 .hero h1 {
   font-size: 2.5rem;
@@ -61,7 +68,11 @@ the fonts read better */
 }
 
 .hero-btn {
+<<<<<<< HEAD
   background: #876a6a;
+=======
+  background: #222;
+>>>>>>> b7cdf867fb1bd0b7546f393cbb708278e0a21261
   color: white;
   padding: 12px 28px;
   border-radius: 6px;
@@ -70,6 +81,7 @@ the fonts read better */
 }
 
 
+<<<<<<< HEAD
 .testimonials {
   padding: 60px 20px;
   text-align: center;
@@ -111,6 +123,8 @@ the fonts read better */
     grid-template-columns: 1fr;
   }
 }
+=======
+>>>>>>> b7cdf867fb1bd0b7546f393cbb708278e0a21261
 
 
 .gallery {
@@ -153,6 +167,7 @@ the fonts read better */
   object-fit: cover;
   display: block;
 }
+<<<<<<< HEAD
 
 .site-footer {
   background: #222;
@@ -191,3 +206,5 @@ the fonts read better */
   border-top: 1px solid #444;
   padding-top: 16px;
 }
+=======
+>>>>>>> b7cdf867fb1bd0b7546f393cbb708278e0a21261
